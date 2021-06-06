@@ -3,7 +3,7 @@
 <span align='left' width="50"> <img src="https://github-readme-stats.vercel.app/api?username=agijsg&theme=vision-friendly-dark" /> </span>
 <span align='left' width="50"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&theme=vision-friendly-dark" alt="stats" /></span>
 <span align='left' width="50"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agijsg&layout=compact&theme=vision-friendly-dark" alt="stats" /></span>
-<span width="50"> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=vision-friendly-dark&column=3" /> <br/></span>
+<span align='right' width="50"> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=vision-friendly-dark&column=3" /> <br/></span>
 
 
 ## 🤖 Languages:
