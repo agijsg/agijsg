@@ -5,7 +5,16 @@
 <span align='left' width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agijsg&layout=compact&theme=vision-friendly-dark" alt="stats" /></span>
 <span align='left' width="100"> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=vision-friendly-dark" /> <br/></span>
 
-
+## Cybersecurity
+ - Web
+ - Réseaux
+ - Applicatif
+ - Cracking
+ - Stéganographie
+ - Cryptologie
+ - Cracking
+ 
+ 
 ## 🤖 Languages:
 <div>
   <img alt="HTML" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -14,6 +23,8 @@
   <img alt="Python" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
   <img alt="SQL" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
   <img alt="MySQL" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+    <img alt="MySQL" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  
 </div>
 
 ## 🛠️ Tools:
