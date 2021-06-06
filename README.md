@@ -1,5 +1,7 @@
 ![](https://github.com/agijsg/agijsg/blob/main/ransomware-defense.gif)
+<p align='left'> <img src="https://github-readme-stats.vercel.app/api?username=agijsg" /> </p>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&" alt="stats" />
+<p align='left'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> </p>
 ### 🤖 Languages:
 <div>
   <img alt="HTML" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -24,7 +26,7 @@
   <img alt="Raspberry Pi" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
 </div>
 <p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> </p>
-<p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=agijsg" /> </p>
+
 
 
 <!--
