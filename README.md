@@ -1,5 +1,5 @@
 ![](https://github.com/agijsg/agijsg/blob/main/ransomware-defense.gif)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&" alt="stats" /
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&" alt="stats" />
 ### 🤖 Languages:
 <div>
   <img alt="HTML" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -24,7 +24,8 @@
   <img alt="Raspberry Pi" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
 </div>
 <p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> </p>
-[![agijsg's GitHub stats](https://github-readme-stats.vercel.app/api?username=agijsg)](https://github.com/agijsg/agijsg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agijsg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **agijsg/agijsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
