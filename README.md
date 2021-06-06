@@ -1,4 +1,4 @@
-https://github.com/agijsg/agijsg/blob/main/agijsg.gif
+![](https://github.com/agijsg/agijsg/blob/main/agijsg.gif)
 
 <!--
 **agijsg/agijsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
