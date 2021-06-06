@@ -1,5 +1,6 @@
 ![](https://github.com/agijsg/agijsg/blob/main/ransomware-defense.gif)
 <br/><br/>
+<span width="100"> <img src="https://github.com/agijsg/agijsg/blob/main/ransomware-defense.gif"/></span
 <span align='left'> <img src="https://github-readme-stats.vercel.app/api?username=agijsg" /> </span>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&" alt="stats" />
 <p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> <br/></p>
