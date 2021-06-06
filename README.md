@@ -2,8 +2,9 @@
 <br/><br/>
 <span align='left'> <img src="https://github-readme-stats.vercel.app/api?username=agijsg" /> </span>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&" alt="stats" />
-<p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> </p><br/>
-### 🤖 Languages:
+<p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> <br/></p>
+
+## 🤖 Languages:
 <div>
   <img alt="HTML" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img alt="CSS" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -13,7 +14,7 @@
   <img alt="MySQL" height="50" margin-left="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </div>
 
-### 🛠️ Tools:
+## 🛠️ Tools:
 <div>
   <img alt="MacOS" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
   <img alt="Linux" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
