@@ -24,8 +24,7 @@
   <img alt="Raspberry Pi" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
 </div>
 <p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agijsg)](https://github.com/anuraghazra/github-readme-stats)
-
+![agijsg's GitHub stats](https://github-readme-stats.vercel.app/api?username=agijsg)
 
 <!--
 **agijsg/agijsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
