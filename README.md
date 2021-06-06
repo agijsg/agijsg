@@ -1,4 +1,4 @@
-![](https://github.com/agijsg/agijsg/blob/main/hacking.gif)
+![ok](https://github.com/agijsg/agijsg/blob/main/hacking.gif)
 
 ### 🤖 Languages:
 <div>
