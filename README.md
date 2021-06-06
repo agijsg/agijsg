@@ -1,7 +1,7 @@
 ![](https://github.com/agijsg/agijsg/blob/main/ransomware-defense.gif)
 <br/><br/>
-<span align='left'> <img src="https://github-readme-stats.vercel.app/api?username=agijsg" /> </span>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&" alt="stats" />
+<span align='left' width="50"> <img src="https://github-readme-stats.vercel.app/api?username=agijsg" /> </span>
+<span align='left' width="50"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agijsg&" alt="stats" /></span>
 <p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=agijsg&theme=nord&row=1&column=7" /> <br/></p>
 
 ## 🤖 Languages:
