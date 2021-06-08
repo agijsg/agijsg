@@ -47,7 +47,9 @@
 ## - 👯 I’m looking to collaborate on the development of a linux rootkit (language : C)
 ## - 🎮 I'am playing Capture The Flag which consists of pwning a web application and / or a system with priviledge escalation
 ## - 📝Todo list:  
-###        1. ransomware (Python || C || C++)
+#### 
+###        1. PHP web shell
 ###        2. cryptography algorithms from scratch (Symetric and Asymetric encryption algorithms)
 ###        3. kernel development and writing a rootkit (linux/kernel)
+
 
