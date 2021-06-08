@@ -5,13 +5,13 @@
 <span align='left' width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agijsg&layout=compact&theme=vision-friendly-dark" alt="stats" /></span>
 
 ## Cybersecurity
- - Web
- - Réseaux
- - Applicatif
- - Cracking
- - Stéganographie
- - Cryptologie
- - Cracking
+ - Web : SQL Injection, XSS, CSRF, Broken Authentification 
+ - Réseaux : Sniffing, OSI, Interconnexion de réseaux (routeurs, switch, etc...)
+ - Applicatif : Développement d'exploits et sécurisation contre des vulnérabilités applicatives
+ - Cracking : Bruteforce
+ - Steganographie : Cacher des fichiers avec des logiciels
+ - Cryptologie : Cesar, Vigenere, Kasisiski, Cryptographie symétrique et asymétrique
+ - Forensics : Analyse de logs
  
  
 ## 🤖 Languages:
