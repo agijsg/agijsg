@@ -12,7 +12,7 @@
  - Steganographie : Cacher des fichiers avec des logiciels
  - Cryptologie : Cesar, Vigenere, Kasisiski, Cryptographie symétrique et asymétrique
  - Forensics : Analyse de logs
- 
+ - Prévention : Antivirus, EDR
  
 ## 🤖 Languages:
 <div>
